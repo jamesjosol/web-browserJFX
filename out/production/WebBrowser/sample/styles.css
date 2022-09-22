@@ -1,0 +1,49 @@
+.tool-bar {
+    -fx-background-color: #00182c;
+}
+
+.urlField {
+    -fx-background-color: #004985;
+    -fx-text-fill: #dfdfdf;
+    -fx-border-radius: 5px;
+}
+
+.urlField:focused {
+    -fx-border-width: 1px 1px 1px 1px;
+    -fx-border-color: #ffffff;
+}
+
+.top-btn {
+    -fx-background-color: #0081eb;
+}
+
+.top-btn:hover {
+    -fx-background-color: #36a0f7;
+}
+
+.top-btn:pressed {
+    -fx-background-color: #006bc2;
+}
+
+.go-btn {
+    -fx-background-color: #003846;
+    -fx-text-fill: #dfdfdf;
+    -fx-fill: white;
+}
+
+.go-btn:hover {
+    -fx-background-color: #0085a7;
+}
+
+.go-btn:pressed {
+    -fx-background-color: #001f27;
+}
+
+.comboBox {
+    -fx-background-color: #6dbdff;
+    -fx-text-fill: #dfdfdf;
+}
+
+#arrow-icon {
+ -fx-fill: white;
+}
